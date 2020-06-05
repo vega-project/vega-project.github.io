@@ -8,3 +8,6 @@ public/
 # Emacs temporary files
 *~
 .#*
+
+# Vim temporary files
+*.swp

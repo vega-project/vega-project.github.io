@@ -19,10 +19,10 @@ subtitle = ""
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = true
+  show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,7 +42,7 @@ subtitle = ""
   #image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  #text_color_light = false  
+  #text_color_light = false
   
 [advanced]
  # Custom CSS. 

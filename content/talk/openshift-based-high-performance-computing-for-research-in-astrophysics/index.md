@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-06-05T18:29:55+02:00
 
-authors: [zsvecar, gszasz, fhubik, nmoraitis]
+authors: [zsvecar, admin, fhubik, nmoraitis]
 tags: []
 
 # Is this a featured talk? (true/false)
