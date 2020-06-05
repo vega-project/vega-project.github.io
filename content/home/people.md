@@ -4,7 +4,7 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Meet the Team"
@@ -13,16 +13,13 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+  user_groups = ["Project Manager",
+                 "Researcher",
+                 "Software Engineers"]
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
   show_interests = true
@@ -34,18 +31,18 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "gray"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  #gradient_start = "LightGray"
+  #gradient_end = "White"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "vega-debris.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  #text_color_light = false  
   
 [advanced]
  # Custom CSS. 
