@@ -4,7 +4,7 @@ title: Gabriel Szász
 
 # Username (this should match the folder name)
 authors:
-- admin
+- gszasz
 
 # Is this the primary user of the site?
 superuser: false
