@@ -33,6 +33,20 @@
   url = "#talks"
   weight = 40
 
+
+[[main_right]]
+  name = "<i class=\"fab fa-redhat\" style=\"color: #dcdcde; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://research.redhat.com/blog/research_project/vega-project/"
+  weight = 50
+
+
+[[main_right]]
+  name = "<i class=\"fab fa-github-alt\" style=\"color: #dcdcde; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://github.com/vega-project"
+  weight = 60
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
