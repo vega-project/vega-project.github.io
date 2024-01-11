@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Astrophysics Graduate Student and Research Assistant
+role: Ph.D. candidate in astrophysics and research assistant at Masaryk University
 
 # Organizations/Affiliations
 organizations:
